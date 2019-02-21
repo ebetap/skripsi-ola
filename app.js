@@ -3,16 +3,27 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+const port = 3000;
+//session
+var session = require('express-session');
 
 //Import routes
-var indexRouter = require('./routes/index');
+var { getHomePage } = require('./routes/index');
+var { getDashboard, logout } = require('./routes/dashboard');
 var usersRouter = require('./routes/users');
-var loginRouter = require('./routes/login');
-var loginPostRouter = require('./routes/loginPost');
+var { getLogin, postLogin } = require('./routes/login');
 
 
 var app = express();
 
+app.use(session({
+  secret: 'keyboard cat',
+  resave: false,
+  saveUninitialized: true,
+  cookie: { maxAge: 3600000 } //cookie 1 jam, satuan ms
+}))
+
+app.set('port', process.env.port || port); 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
@@ -24,10 +35,12 @@ app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 //Register Routes
-app.use('/', indexRouter);
+app.get('/', getHomePage);
 app.use('/users', usersRouter);
-app.use('/login', loginRouter);
-app.use('/login', loginPostRouter);
+app.get('/login', getLogin);
+app.post('/login', postLogin);
+app.get('/dashboard', getDashboard);
+app.post('/logout',logout);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -43,6 +56,10 @@ app.use(function(err, req, res, next) {
   // render the error page
   res.status(err.status || 500);
   res.render('error');
+});
+
+app.listen(port, () => {
+  console.log(`Server running on port: ${port}`);
 });
 
 module.exports = app;

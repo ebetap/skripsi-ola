@@ -1,9 +1,20 @@
-var express = require('express');
-var router = express.Router();
+module.exports = {
+  getLogin: (req , res) => {
+    res.render('login', { title: 'Login ola',status: null });
+  },
 
-/* GET login page. */
-router.get('/', function(req, res, next) {
-  res.render('login', { title: 'Login ola' });
-});
+  postLogin: (req , res) => {
+    let userName = req.body.username
+    let pass = req.body.password
 
-module.exports = router;
+    if (userName === 'ola' && pass === 'skripsi'){
+      req.session.user = 'ola';
+      res.redirect('/dashboard');
+    } else {
+      res.render('login',{
+        title: 'Login Ola',
+        status: 'Failed'
+      })
+    }
+  }
+}

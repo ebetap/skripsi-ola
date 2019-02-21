@@ -8,12 +8,16 @@
 </head>
 <body>
     <h1><% title %></h1>
-    <form method="POST" action="">
+    <form method="POST" action="/login">
         <input type="text" name="username">
         <input type="password" name="password">
         <input type="submit" value="Submit">
     </form>
 
-    <p><% status %></p>
+    <% if(status == null) {%>
+        <p></p>
+    <%} else {%>
+        <p style="color: red;"><%= status %></p>
+    <%}%>
 </body>
 </html>

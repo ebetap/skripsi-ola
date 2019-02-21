@@ -1,9 +1,5 @@
-var express = require('express');
-var router = express.Router();
-
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Ola Skripsi' });
-});
-
-module.exports = router;
+module.exports = {
+  getHomePage: (req ,res ) => {
+    res.render('index', { title: 'Ola Skripsi' });
+  }
+}

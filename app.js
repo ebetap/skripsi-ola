@@ -3,7 +3,7 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-const port = 3000;
+const port = 4000;
 //session
 var session = require('express-session');
 
@@ -20,7 +20,7 @@ app.use(session({
   secret: 'keyboard cat',
   resave: false,
   saveUninitialized: true,
-  cookie: { maxAge: 3600000 } //cookie 1 jam, satuan ms
+  cookie: { maxAge: 3600000 } //cookie 1 jam satuan ms
 }))
 
 app.set('port', process.env.port || port); 

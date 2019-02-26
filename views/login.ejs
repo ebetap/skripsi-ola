@@ -1,23 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-<body>
-    <h1><% title %></h1>
-    <form method="POST" action="/login">
-        <input type="text" name="username">
-        <input type="password" name="password">
-        <input type="submit" value="Submit">
-    </form>
-
-    <% if(status == null) {%>
-        <p></p>
-    <%} else {%>
-        <p style="color: red;"><%= status %></p>
-    <%}%>
+<!--Head-->
+<%include partials/head.ejs %>
+<body id="login-page" class="login">
+    <div class="login-page">
+        <div class="form">
+            <form method="POST" action="/login" class="login-form">
+                <h4 class="text-center mb-4">LOGIN</h4>
+                <input type="text" placeholder="username" name="username" autocomplete="off"/>
+                <input type="password" placeholder="password" name="password" autocomplete="off"/>
+                <button>login</button>
+            </form>
+        </div>
+    </div>
+<% include partials/foot.ejs %>
 </body>
 </html>

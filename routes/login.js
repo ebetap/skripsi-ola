@@ -1,6 +1,10 @@
+let { stateLogin } = require('./state/loginState');
+
 module.exports = {
   getLogin: (req , res) => {
-    res.render('login', { title: 'Login ola',status: null });
+    res.render('login', { 
+      ...stateLogin
+    });
   },
 
   postLogin: (req , res) => {
@@ -12,7 +16,7 @@ module.exports = {
       res.redirect('/dashboard');
     } else {
       res.render('login',{
-        title: 'Login Ola',
+        ...stateLogin,
         status: 'Failed'
       })
     }

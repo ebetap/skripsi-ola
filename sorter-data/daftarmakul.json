@@ -1,0 +1,62 @@
+[
+  {
+    "KODE": "ST022",
+    "MATKUL": "SISTEM BASIS DATA",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST068",
+    "MATKUL": "ALGORITMA DAN PEMROGRAMAN",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST073",
+    "MATKUL": "JARINGAN KOMPUTER",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST122",
+    "MATKUL": "PEMROGRAMAN LANJUT",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST029",
+    "MATKUL": "KOMPUTER GRAFIS",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST101",
+    "MATKUL": "PERANCANGAN FILM KARTUN",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST125",
+    "MATKUL": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST095",
+    "MATKUL": "MULTIMEDIA",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "STI41",
+    "MATKUL": "TEKNOLOGI JARINGAN NIRKABEL",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST127",
+    "MATKUL": "JARINGAN KOMPUTER III",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST132",
+    "MATKUL": "INFRASTRUKTUR WEB DAN INTERNET",
+    "PRODI": "S1 INFORMATIKA"
+  },
+  {
+    "KODE": "ST136",
+    "MATKUL": "CONCEPT ART",
+    "PRODI": "S1 INFORMATIKA"
+  }
+]

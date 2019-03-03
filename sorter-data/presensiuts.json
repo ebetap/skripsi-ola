@@ -1,0 +1,1712 @@
+[
+  {
+    "No": 1,
+    "NIM": "17.11.1152",
+    "Nama": "AGNES LUCKY REBECCA",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 1,
+    "Jumlah": 14
+  },
+  {
+    "No": 2,
+    "NIM": "15.11.9069",
+    "Nama": "AGUNG",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 16,
+    "Presensi Manual": 0,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0493",
+    "Nama": "AGUNG SURYO SUNDORO",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 15,
+    "Presensi Manual": 1,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8877",
+    "Nama": "AHMAD FAUZI",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 44,
+    "Presensi Manual": 5,
+    "Jumlah": 49
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8853",
+    "Nama": "AJI DWI CAHYONO",
+    "Mata Kuliah": "PERANCANGAN FILM KARTUN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 29,
+    "Presensi Manual": 1,
+    "Jumlah": 30
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0508",
+    "Nama": "AJI SYAHRONI ARDIANTO",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 26,
+    "Presensi Manual": 5,
+    "Jumlah": 31
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1123",
+    "Nama": "ALFIN ANDIKA PRATAMA",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 16,
+    "Presensi Manual": 1,
+    "Jumlah": 17
+  },
+  {
+    "No": "",
+    "NIM": "16.61.0087",
+    "Nama": "ALI RAHMAT ISMAIL",
+    "Mata Kuliah": "PROGRAM APLIKASI MOBILE",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 2,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0479",
+    "Nama": "ALVIAN TRIAS KURNIAWAN",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 2,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0479",
+    "Nama": "ALVIAN TRIAS KURNIAWAN",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 18,
+    "Presensi Manual": 2,
+    "Jumlah": 20
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0579",
+    "Nama": "ALVIN ADITYA RAHMAN",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 0,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0579",
+    "Nama": "ALVIN ADITYA RAHMAN",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 17,
+    "Presensi Manual": 0,
+    "Jumlah": 17
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1132",
+    "Nama": "ANANG WAHYU PRADANA",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 1,
+    "Jumlah": 6
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1501",
+    "Nama": "ANDHY PANCA SAPUTRA",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 0,
+    "Jumlah": 5
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9297",
+    "Nama": "ANITTABI MILIATY",
+    "Mata Kuliah": "JARINGAN KOMPUTER III",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 15,
+    "Presensi Manual": 3,
+    "Jumlah": 18
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9297",
+    "Nama": "ANITTABI MILIATY",
+    "Mata Kuliah": "TEKNOLOGI JARINGAN NIRKABEL",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 22,
+    "Presensi Manual": 4,
+    "Jumlah": 26
+  },
+  {
+    "No": "",
+    "NIM": "16.12.8988",
+    "Nama": "ANNISA AFRUL MUFIDAH",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 2,
+    "Presensi Manual": 0,
+    "Jumlah": 2
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9021",
+    "Nama": "ARDI HADMA GIRIMUKTI",
+    "Mata Kuliah": "TEKNOLOGI JARINGAN NIRKABEL",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 3,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0009",
+    "Nama": "ARIF CAHYO PRASETYO",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 16,
+    "Presensi Manual": 1,
+    "Jumlah": 17
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0004",
+    "Nama": "ARIF MARDA SAPUTRO",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 22,
+    "Presensi Manual": 0,
+    "Jumlah": 22
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8601",
+    "Nama": "ARINI MAULUDDINA",
+    "Mata Kuliah": "PROGRAM APLIKASI MOBILE",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 8,
+    "Presensi Manual": 2,
+    "Jumlah": 10
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8601",
+    "Nama": "ARINI MAULUDDINA",
+    "Mata Kuliah": "METODE NUMERIK",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 28,
+    "Presensi Manual": 0,
+    "Jumlah": 28
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0724",
+    "Nama": "ARUM RAWINING DIAN",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 2,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0609",
+    "Nama": "ASTRI SEKAR AYU",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 7,
+    "Presensi Manual": 1,
+    "Jumlah": 8
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0609",
+    "Nama": "ASTRI SEKAR AYU",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 1,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9292",
+    "Nama": "ASVARIZAL FILCHA",
+    "Mata Kuliah": "PEMROGRAMAN WEB LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 18,
+    "Presensi Manual": 2,
+    "Jumlah": 20
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8767",
+    "Nama": "ASWIN BHANU RESWARA",
+    "Mata Kuliah": "CONCEPT ART",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 3,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8767",
+    "Nama": "ASWIN BHANU RESWARA",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 2,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8767",
+    "Nama": "ASWIN BHANU RESWARA",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 8,
+    "Presensi Manual": 1,
+    "Jumlah": 9
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0520",
+    "Nama": "AUDIA APRIDINI ALEXANDRA",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 15,
+    "Presensi Manual": 3,
+    "Jumlah": 18
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1121",
+    "Nama": "AULIA KHANSA DAMARANI",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 0,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9179",
+    "Nama": "AYU LESTARI ROLOBESSY",
+    "Mata Kuliah": "METODE NUMERIK",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 0,
+    "Jumlah": 11
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0789",
+    "Nama": "Alfi Yusron Aulia",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 1,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "17.61.0105",
+    "Nama": "BAYU PERMANA SEJATI",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 1,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8913",
+    "Nama": "BEKTI SURYA KUSUMA",
+    "Mata Kuliah": "PEMROGRAMAN WEB LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 6,
+    "Presensi Manual": 2,
+    "Jumlah": 8
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8912",
+    "Nama": "BETA PRIYOKO",
+    "Mata Kuliah": "PEMROGRAMAN WEB LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 0,
+    "Jumlah": 5
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8578",
+    "Nama": "BONAVENTURA ANJUNARI SUWINDYA",
+    "Mata Kuliah": "TEKNOLOGI JARINGAN NIRKABEL",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 24,
+    "Presensi Manual": 2,
+    "Jumlah": 26
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1539",
+    "Nama": "BRAYEN BAKARA",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 1,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0203",
+    "Nama": "BRIAN WILDAN BRAMASTA",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 18,
+    "Presensi Manual": 2,
+    "Jumlah": 20
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8802",
+    "Nama": "BURHAM DWI JATMIKO",
+    "Mata Kuliah": "JARINGAN KOMPUTER III",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 8,
+    "Presensi Manual": 2,
+    "Jumlah": 10
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8381",
+    "Nama": "BUYUT KHOIRUL UMRI",
+    "Mata Kuliah": "CONCEPT ART",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 10,
+    "Presensi Manual": 1,
+    "Jumlah": 11
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8381",
+    "Nama": "BUYUT KHOIRUL UMRI",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 16,
+    "Presensi Manual": 2,
+    "Jumlah": 18
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8381",
+    "Nama": "BUYUT KHOIRUL UMRI",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 2,
+    "Presensi Manual": 1,
+    "Jumlah": 3
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0589",
+    "Nama": "DANU PRAWIRA UTAMA",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 18,
+    "Presensi Manual": 2,
+    "Jumlah": 20
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0589",
+    "Nama": "DANU PRAWIRA UTAMA",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 15,
+    "Presensi Manual": 2,
+    "Jumlah": 17
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0513",
+    "Nama": "DERI HARIYANTO",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 2,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0678",
+    "Nama": "DEVISMA NUR FITRIANA",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 8,
+    "Presensi Manual": 1,
+    "Jumlah": 9
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0646",
+    "Nama": "DIMAS BAYU FEBRIYANTO",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 0,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9272",
+    "Nama": "DIMAS WIRYATARI",
+    "Mata Kuliah": "JARINGAN KOMPUTER III",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 4,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0854",
+    "Nama": "DWI PONCO UTOMO",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 2,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0854",
+    "Nama": "DWI PONCO UTOMO",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 2,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0554",
+    "Nama": "DWITYA KURNIA WIDI HASTAWA",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 16,
+    "Presensi Manual": 2,
+    "Jumlah": 18
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0554",
+    "Nama": "DWITYA KURNIA WIDI HASTAWA",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 3,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "17.61.0110",
+    "Nama": "DZULFIKAR ALI MASKUR",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 6,
+    "Presensi Manual": 2,
+    "Jumlah": 8
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1337",
+    "Nama": "EDWIN RAHMAD TOHA",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 7,
+    "Presensi Manual": 1,
+    "Jumlah": 8
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0886",
+    "Nama": "EKO FAJAR ROMADHON",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 22,
+    "Presensi Manual": 0,
+    "Jumlah": 22
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0628",
+    "Nama": "EXCEL ALFARISHI",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 19,
+    "Presensi Manual": 3,
+    "Jumlah": 22
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9170",
+    "Nama": "FACHRIZAL AZZURI",
+    "Mata Kuliah": "CONCEPT ART",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 3,
+    "Presensi Manual": 4,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9170",
+    "Nama": "FACHRIZAL AZZURI",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 9,
+    "Presensi Manual": 2,
+    "Jumlah": 11
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9170",
+    "Nama": "FACHRIZAL AZZURI",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 4,
+    "Presensi Manual": 0,
+    "Jumlah": 4
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0271",
+    "Nama": "FAISHAL ARIF WIBOWO",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 16,
+    "Presensi Manual": 2,
+    "Jumlah": 18
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1500",
+    "Nama": "FAIZAL FAKHRI IRFANI",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 0,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0030",
+    "Nama": "FAIZAL ZULFI ARDIYANTO",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 10,
+    "Presensi Manual": 2,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "16.02.9447",
+    "Nama": "FARADILLAH NURUL HIKMAH",
+    "Mata Kuliah": "PROGRAM APLIKASI MOBILE",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0130",
+    "Nama": "FEBRILIA ENDAH KURNIAWATI",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 10,
+    "Presensi Manual": 2,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0130",
+    "Nama": "FEBRILIA ENDAH KURNIAWATI",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 1,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0254",
+    "Nama": "FRISCO KHARISMA EDY PRAYOGA",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 19,
+    "Presensi Manual": 3,
+    "Jumlah": 22
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0780",
+    "Nama": "FUAD HABIB NURRAHMAN",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 8,
+    "Presensi Manual": 1,
+    "Jumlah": 9
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0780",
+    "Nama": "FUAD HABIB NURRAHMAN",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 3,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9109",
+    "Nama": "GADHANG PERMANA AJI",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 20,
+    "Presensi Manual": 3,
+    "Jumlah": 23
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0625",
+    "Nama": "HANIF AISYAH",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 1,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0625",
+    "Nama": "HANIF AISYAH",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 2,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0104",
+    "Nama": "HARUN KURNIAWAN",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 0,
+    "Jumlah": 11
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9208",
+    "Nama": "HERI CAHYONO",
+    "Mata Kuliah": "PEMROGRAMAN WEB LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 20,
+    "Presensi Manual": 0,
+    "Jumlah": 20
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0222",
+    "Nama": "HERIN DWIBIMA APRIANTO",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 0,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0689",
+    "Nama": "HERLAMBANG BAYU AJI",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 0,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0689",
+    "Nama": "HERLAMBANG BAYU AJI",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 27,
+    "Presensi Manual": 3,
+    "Jumlah": 30
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0258",
+    "Nama": "IRSA ADELIA",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 19,
+    "Presensi Manual": 0,
+    "Jumlah": 19
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8732",
+    "Nama": "JUPRI ISTOMO",
+    "Mata Kuliah": "PROGRAM APLIKASI MOBILE",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 10,
+    "Presensi Manual": 3,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8732",
+    "Nama": "JUPRI ISTOMO",
+    "Mata Kuliah": "METODE NUMERIK",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 44,
+    "Presensi Manual": 1,
+    "Jumlah": 45
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1485",
+    "Nama": "KAHFI BAIDOWI",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 7,
+    "Presensi Manual": 0,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0559",
+    "Nama": "KHAFID AKBAR",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 2,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9309",
+    "Nama": "LANANG GAGAH PERKASA",
+    "Mata Kuliah": "PERANCANGAN FILM KARTUN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 21,
+    "Presensi Manual": 0,
+    "Jumlah": 21
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8472",
+    "Nama": "LUBNA",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8472",
+    "Nama": "LUBNA",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 3,
+    "Presensi Manual": 0,
+    "Jumlah": 3
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8748",
+    "Nama": "MAHENDRA BIMANTARA PUTRA",
+    "Mata Kuliah": "METODE NUMERIK",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 35,
+    "Presensi Manual": 5,
+    "Jumlah": 40
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1356",
+    "Nama": "MAHMUD ZAKARIYA ALFAROZY",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 0,
+    "Jumlah": 5
+  },
+  {
+    "No": "",
+    "NIM": "15.61.0056",
+    "Nama": "MASBUT ADITAMA PRADANA",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 27,
+    "Presensi Manual": 3,
+    "Jumlah": 30
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0699",
+    "Nama": "MUFLIKHAH ISNA NUR AINI",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 1,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8398",
+    "Nama": "MUHAMAD AFIK DESTRIANTO",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 16,
+    "Presensi Manual": 0,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9237",
+    "Nama": "MUHAMAD RAHMAT JATNIKA",
+    "Mata Kuliah": "PEMROGRAMAN WEB LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 10,
+    "Presensi Manual": 3,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0472",
+    "Nama": "MUHAMMAD ARIF SADEWA",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 2,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0348",
+    "Nama": "MUHAMMAD FATURRAHMAN ADZANI",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8630",
+    "Nama": "MUHAMMAD ICHWANDAR AKRIANTO",
+    "Mata Kuliah": "PROGRAM APLIKASI MOBILE",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9381",
+    "Nama": "MUHAMMAD LUQMAN HAKIM NUR RASYIID",
+    "Mata Kuliah": "PERANCANGAN FILM KARTUN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 23,
+    "Presensi Manual": 2,
+    "Jumlah": 25
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9381",
+    "Nama": "MUHAMMAD LUQMAN HAKIM NUR RASYIID",
+    "Mata Kuliah": "CONCEPT ART",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 0,
+    "Jumlah": 11
+  },
+  {
+    "No": "",
+    "NIM": "16.12.9150",
+    "Nama": "MUHAMMAD LUTFI ALFIAN",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 1,
+    "Presensi Manual": 0,
+    "Jumlah": 1
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8937",
+    "Nama": "MUHAMMAD MARIKO",
+    "Mata Kuliah": "METODE NUMERIK",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 31,
+    "Presensi Manual": 1,
+    "Jumlah": 32
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8585",
+    "Nama": "MUHAMMAD MAULANA RIZQANANDA",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 1,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0008",
+    "Nama": "MUHAMMAD NUGRAHA JATUN",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 29,
+    "Presensi Manual": 0,
+    "Jumlah": 29
+  },
+  {
+    "No": "",
+    "NIM": "16.12.9384",
+    "Nama": "MUHAMMAD RIDWAN",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 1,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9264",
+    "Nama": "MUHAMMAD SUFI AULIA",
+    "Mata Kuliah": "PEMROGRAMAN WEB LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 21,
+    "Presensi Manual": 0,
+    "Jumlah": 21
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9264",
+    "Nama": "MUHAMMAD SUFI AULIA",
+    "Mata Kuliah": "PROGRAM APLIKASI MOBILE",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 0,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "16.12.8983",
+    "Nama": "MUHAMMAD TAPTAZANI ADI",
+    "Mata Kuliah": "PEMROGRAMAN WEB LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 0,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9187",
+    "Nama": "MUHAMMAD TAUHID SYAHRUL ARDANI",
+    "Mata Kuliah": "CONCEPT ART",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 26,
+    "Presensi Manual": 4,
+    "Jumlah": 30
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8530",
+    "Nama": "MUHAMMAD YUSUF ANSHARI",
+    "Mata Kuliah": "PERANCANGAN FILM KARTUN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 9,
+    "Presensi Manual": 0,
+    "Jumlah": 9
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8530",
+    "Nama": "MUHAMMAD YUSUF ANSHARI",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 1,
+    "Presensi Manual": 0,
+    "Jumlah": 1
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9075",
+    "Nama": "MUHAMMAD ZA`IMUL ABROR",
+    "Mata Kuliah": "CONCEPT ART",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 17,
+    "Presensi Manual": 2,
+    "Jumlah": 19
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1102",
+    "Nama": "MUHSON NAWAWI",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 16,
+    "Presensi Manual": 0,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0650",
+    "Nama": "MUKHADIMAH",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 0,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0650",
+    "Nama": "MUKHADIMAH",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 0,
+    "Jumlah": 11
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0361",
+    "Nama": "MURNIANDHANY AYUSARI",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 3,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8363",
+    "Nama": "MUWSAA",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 2,
+    "Presensi Manual": 0,
+    "Jumlah": 2
+  },
+  {
+    "No": "",
+    "NIM": "16.12.9553",
+    "Nama": "NABILA RORO AYU HAPSARI",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 3,
+    "Presensi Manual": 0,
+    "Jumlah": 3
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1701",
+    "Nama": "NANDA ATIKA HARIANI",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8906",
+    "Nama": "NINDY ANGGITA MENTARI",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 1,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8906",
+    "Nama": "NINDY ANGGITA MENTARI",
+    "Mata Kuliah": "PERANCANGAN FILM KARTUN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 28,
+    "Presensi Manual": 1,
+    "Jumlah": 29
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9005",
+    "Nama": "NIRMALASARI",
+    "Mata Kuliah": "METODE NUMERIK",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 20,
+    "Presensi Manual": 0,
+    "Jumlah": 20
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0602",
+    "Nama": "NOVI NURKHAENI",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 20,
+    "Presensi Manual": 1,
+    "Jumlah": 21
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0602",
+    "Nama": "NOVI NURKHAENI",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 3,
+    "Jumlah": 17
+  },
+  {
+    "No": "",
+    "NIM": "16.12.9121",
+    "Nama": "NURSYAMSI FERDI FADHILAH",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 1,
+    "Presensi Manual": 0,
+    "Jumlah": 1
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9277",
+    "Nama": "OKTI UTARI",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 6,
+    "Presensi Manual": 0,
+    "Jumlah": 6
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9277",
+    "Nama": "OKTI UTARI",
+    "Mata Kuliah": "TEKNOLOGI JARINGAN NIRKABEL",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9277",
+    "Nama": "OKTI UTARI",
+    "Mata Kuliah": "JARINGAN KOMPUTER III",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 7,
+    "Presensi Manual": 1,
+    "Jumlah": 8
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9277",
+    "Nama": "OKTI UTARI",
+    "Mata Kuliah": "METODE NUMERIK",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 10,
+    "Presensi Manual": 0,
+    "Jumlah": 10
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9395",
+    "Nama": "PANDI",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 17,
+    "Presensi Manual": 2,
+    "Jumlah": 19
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0135",
+    "Nama": "PERANA",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 15,
+    "Presensi Manual": 1,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.61.0045",
+    "Nama": "R. ALLAIL SUKMA KAMANDANU",
+    "Mata Kuliah": "METODE NUMERIK",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 19,
+    "Presensi Manual": 0,
+    "Jumlah": 19
+  },
+  {
+    "No": "",
+    "NIM": "16.12.9146",
+    "Nama": "RAHMAD FEBRIAN",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 1,
+    "Presensi Manual": 0,
+    "Jumlah": 1
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0142",
+    "Nama": "RAHMAT HIDAYAT",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 2,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0142",
+    "Nama": "RAHMAT HIDAYAT",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0246",
+    "Nama": "RAKA ADIYATMA",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 15,
+    "Presensi Manual": 0,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9192",
+    "Nama": "RAKA NATA RIZAL",
+    "Mata Kuliah": "TEKNOLOGI JARINGAN NIRKABEL",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 2,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0079",
+    "Nama": "RESTU ADIMAS KHOIRUDIN",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 3,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9215",
+    "Nama": "RESTU FAJRI IRAWAN",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 15,
+    "Presensi Manual": 0,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0357",
+    "Nama": "RHEZA HANIF MALIK FAJAR",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 20,
+    "Presensi Manual": 1,
+    "Jumlah": 21
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0396",
+    "Nama": "RIA HIKMAH PRATITIS",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 20,
+    "Presensi Manual": 1,
+    "Jumlah": 21
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0396",
+    "Nama": "RIA HIKMAH PRATITIS",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 5,
+    "Jumlah": 17
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0344",
+    "Nama": "RIDHO ARYO BIMO",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 23,
+    "Presensi Manual": 2,
+    "Jumlah": 25
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0572",
+    "Nama": "RIYADH RIZQULLAH",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 3,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1247",
+    "Nama": "RIZKY NUR HIDAYATULLAH",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 7,
+    "Presensi Manual": 0,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1653",
+    "Nama": "RIZKY ROSYID HIDAYAT",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 8,
+    "Presensi Manual": 0,
+    "Jumlah": 8
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8816",
+    "Nama": "RIZQY KHOIRUL FADLI",
+    "Mata Kuliah": "JARINGAN KOMPUTER III",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 3,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1452",
+    "Nama": "RONY PERMADI",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 7,
+    "Presensi Manual": 0,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0522",
+    "Nama": "RYAN ANDRIA NUGROHO",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 17,
+    "Presensi Manual": 5,
+    "Jumlah": 22
+  },
+  {
+    "No": "",
+    "NIM": "15.11.8543",
+    "Nama": "SAEFURRAHMAN",
+    "Mata Kuliah": "JARINGAN KOMPUTER III",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 3,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "15.12.8651",
+    "Nama": "SAFITRA GALIH SUGIARTO",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 1,
+    "Presensi Manual": 0,
+    "Jumlah": 1
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0387",
+    "Nama": "SAMSUL RIJAL",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0387",
+    "Nama": "SAMSUL RIJAL",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 3,
+    "Jumlah": 17
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9113",
+    "Nama": "SEKAR AYU SAVITRI",
+    "Mata Kuliah": "PROGRAM APLIKASI MOBILE",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 6,
+    "Presensi Manual": 1,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0553",
+    "Nama": "SWANDARU REZA PUTRI",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 2,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0553",
+    "Nama": "SWANDARU REZA PUTRI",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 21,
+    "Presensi Manual": 0,
+    "Jumlah": 21
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9153",
+    "Nama": "SYAHRIZAL AZZURI",
+    "Mata Kuliah": "BROADCASTING",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 8,
+    "Presensi Manual": 1,
+    "Jumlah": 9
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9153",
+    "Nama": "SYAHRIZAL AZZURI",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 3,
+    "Presensi Manual": 0,
+    "Jumlah": 3
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9153",
+    "Nama": "SYAHRIZAL AZZURI",
+    "Mata Kuliah": "CONCEPT ART",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 3,
+    "Jumlah": 8
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1052",
+    "Nama": "SYEKH ARPI AGENG",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 5,
+    "Presensi Manual": 0,
+    "Jumlah": 5
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9202",
+    "Nama": "TAUFIK ROMADHON",
+    "Mata Kuliah": "PEMROGRAMAN WEB LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 21,
+    "Presensi Manual": 0,
+    "Jumlah": 21
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0491",
+    "Nama": "TIMUR DIAN RADHA SEJATI",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 12,
+    "Presensi Manual": 1,
+    "Jumlah": 13
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0129",
+    "Nama": "UMI ANISAH",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 1,
+    "Jumlah": 12
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1725",
+    "Nama": "VINSENSIUS DIMAS ABISTA",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 6,
+    "Presensi Manual": 1,
+    "Jumlah": 7
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9281",
+    "Nama": "WALIDY RAHMAN HAKIM",
+    "Mata Kuliah": "JARINGAN KOMPUTER III",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 7,
+    "Presensi Manual": 2,
+    "Jumlah": 9
+  },
+  {
+    "No": "",
+    "NIM": "15.11.9325",
+    "Nama": "WILDAN BHASKARA",
+    "Mata Kuliah": "JARINGAN KOMPUTER III",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 11,
+    "Presensi Manual": 0,
+    "Jumlah": 11
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1664",
+    "Nama": "YAHYA SUGANDI.Y",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 8,
+    "Presensi Manual": 1,
+    "Jumlah": 9
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0223",
+    "Nama": "YANUAR ADITIA",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 22,
+    "Presensi Manual": 3,
+    "Jumlah": 25
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0172",
+    "Nama": "YOGI YULIANTO",
+    "Mata Kuliah": "PROGRAM APLIKASI MOBILE",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 3,
+    "Presensi Manual": 2,
+    "Jumlah": 5
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0116",
+    "Nama": "YONGKY BUDI SETIAWANDA",
+    "Mata Kuliah": "JARINGAN KOMPUTER",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 2,
+    "Jumlah": 15
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0503",
+    "Nama": "YUSRIL",
+    "Mata Kuliah": "PEMROGRAMAN LANJUT",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 13,
+    "Presensi Manual": 1,
+    "Jumlah": 14
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0146",
+    "Nama": "YUSUF BACHTIAR",
+    "Mata Kuliah": "MULTIMEDIA",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 19,
+    "Presensi Manual": 0,
+    "Jumlah": 19
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0022",
+    "Nama": "ZAINAL MAKHASIN",
+    "Mata Kuliah": "KOMPUTER GRAFIS",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 14,
+    "Presensi Manual": 2,
+    "Jumlah": 16
+  },
+  {
+    "No": "",
+    "NIM": "16.11.0467",
+    "Nama": "ZAUVIK  RIZALDI MA`RUF",
+    "Mata Kuliah": "PRAKTIKUM HARDWARE/ SOFTWARE II",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 18,
+    "Presensi Manual": 2,
+    "Jumlah": 20
+  },
+  {
+    "No": "",
+    "NIM": "17.11.1692",
+    "Nama": "syaima asy syahzan gomes",
+    "Mata Kuliah": "ALGORITMA DAN PEMROGRAMAN",
+    "Jurusan": "S1 INFORMATIKA",
+    "Presensi Sistem": 10,
+    "Presensi Manual": 4,
+    "Jumlah": 14
+  }
+]
